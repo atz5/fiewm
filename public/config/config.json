@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x810e85c820f3066a7112147caf4c8bfae567634d",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x810e85c820f3066a7112147caf4c8bfae567634d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "EWM Collection NFT",
+  "SYMBOL": "EWMNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ewm-collection-nsihh1mit9",
+  "SHOW_BACKGROUND": true
+}
