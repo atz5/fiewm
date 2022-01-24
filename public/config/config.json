@@ -1,18 +1,20 @@
 {
-  "CONTRACT_ADDRESS": "0x810e85c820f3066a7112147caf4c8bfae567634d",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x810e85c820f3066a7112147caf4c8bfae567634d",
+  "CONTRACT_ADDRESS": "0x58eaf695e47953b1afa6e29da8a9f11ed556c15e",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x58eaf695e47953b1afa6e29da8a9f11ed556c15e",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 80001
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
   },
-  "NFT_NAME": "EWM Collection NFT",
-  "SYMBOL": "EWMNFT",
+  "NFT_NAME": "The Stripes NFT",
+  "SYMBOL": "TSNFT",
   "MAX_SUPPLY": 50,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+
+  "WEI_COST": 120000000000000000,
+  
+  "DISPLAY_COST": 0.12,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ewm-collection-nsihh1mit9",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
   "SHOW_BACKGROUND": true
 }
